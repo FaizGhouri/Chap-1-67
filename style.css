@@ -1,0 +1,59 @@
+h1 {
+    background-color: goldenrod;
+    text-align: center;
+}
+
+
+
+
+.sign {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: rgb(204, 200, 200);
+    
+
+
+}
+
+
+
+.user {
+    width: 350px;
+    height: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px;
+}
+
+
+
+
+.phone{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.mob{
+    margin-top: 50px;
+    width: 200px;
+    height: 300px;
+    border: 1px solid blue;
+}
+
+.beauti{
+    cursor: pointer;;
+    width: 250px;
+    height: 180px;
+    
+}
+
+
+.big{
+    width: 700px;
+    height: 400px;
+}
